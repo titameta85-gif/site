@@ -37,4 +37,4 @@ export const PortChooser = () => {
   )
 };
 
-<PortChooser />
+<PortChooser />http://localhost:8239/ketuntasan_rapor
